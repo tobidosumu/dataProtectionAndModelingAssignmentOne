@@ -175,8 +175,8 @@
   
   
 
-  b. Draw the model for your project (deadline 13/01/2023 10:00am)
-
+  b. Draw the model for your project 
+        <img src="./images/jackInventoryDataModel.drawio.png" alt="data modeling for Jack Warahouse Inventory">
 
 
 

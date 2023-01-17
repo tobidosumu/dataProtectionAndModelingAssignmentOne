@@ -26,7 +26,7 @@
 
 
 
-  II. Write out all the DPA 2018
+  II. Write out all the DPA of 2018
 
       i.  Transparency: The data processing agreement must be clear and easily understandable, 
           with a clear description of the types of personal data that will be processed and the 
@@ -50,7 +50,7 @@
 
     vii.  Integrity and confidentiality: The data processing agreement must ensure that personal data is protected 
           against unauthorized or unlawful processing, accidental loss, destruction, or damage.
-
+          
    viii.  Accountability: The data processing agreement must require the data controller to take responsibility for 
           ensuring compliance with the principles of data processing agreement and to demonstrate its compliance with 
           those principles.

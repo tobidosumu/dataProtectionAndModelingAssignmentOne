@@ -176,8 +176,7 @@
   
 
   b. Draw the model for your project 
-        <img src="./images/jackInventoryDataModel.drawio.png" alt="data modeling for Jack Warahouse Inventory">
-
+        ![Data Modeling for Jack Warahouse Inventory](images/jackInventoryDataModel.drawio.png)
 
 
 2. a. (Jack Warehouse Inventory) On a daily basis 5 10 tonn trucks, 

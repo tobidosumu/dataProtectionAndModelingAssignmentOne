@@ -15,7 +15,7 @@
 
       v. Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.
 
-     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful           processing, accidental loss, destruction, or damage.  
+     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful processing, accidental loss, destruction, or damage.  
 
           vii. Accountability: Organizations must be able to demonstrate their compliance with these principles. 
           They are responsible for implementing appropriate technical and organizational measures to ensure that personal data is processed in accordance with the GDPR.
@@ -180,5 +180,18 @@
       3 5-ton trucks and 2 2.75-ton truck
 
    b. audit the entry and exit of 5 10-ton trucks, 3 10-ton trucks, 
-      2.5 10-ton trucks use a random algorithm  
+      2.5 10-ton trucks using a random algorithm  
+
+
+     In order to audit the entry and exit of the trucks, a random algorithm can be implemented this way:
+
+     i.   The algorithm can be set to randomly select a certain number of the 5 10-ton trucks, 3 5-ton trucks, and 2 2.75-ton trucks to be checked for accuracy.
+
+     ii.  The algorithm can be designed to randomly select a specific number of trucks, such as every 10th truck, every 5th truck, or every 20th truck irrespective of their carrying capacity. This ensures that all trucks are being tracked and accounted for, while also providing a level of randomness to the process to prevent any potential bias.
+
+     iii. The selected trucks can then be checked for accuracy by verifying the entry and exit time, comparing it to the expected time, and ensuring that all shipments are accounted for.
+
+     iv.  Any discrepancies or issues found during the audit can be reported and addressed accordingly.
+
+     v.   The algorithm can be reviewed and modified as needed to ensure that the audit process is effective and efficient.
 

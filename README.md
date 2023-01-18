@@ -13,13 +13,12 @@
 
      iv. Accuracy: Personal data must be accurate and kept up to date.
 
-      v. Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no 
-         longer than is necessary for the purposes for which the personal data are processed.
+      v. Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.
 
-     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful           processing, accidental loss, destruction, or damage.
+     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful           processing, accidental loss, destruction, or damage.  
 
-     vii. Accountability: Organizations must be able to demonstrate their compliance with these principles. 
-         They are responsible for implementing appropriate technical and organizational measures to ensure that personal data is processed in accordance with the GDPR.
+          vii. Accountability: Organizations must be able to demonstrate their compliance with these principles. 
+          They are responsible for implementing appropriate technical and organizational measures to ensure that personal data is processed in accordance with the GDPR.
 
 
 

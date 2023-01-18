@@ -172,7 +172,7 @@
   
   
 
-  b. Draw the model for your project (Jack Warahouse Inventory)
+  b. Draw the model for your project (Jack Warehouse Inventory)
         ![Data Modeling for Jack Warahouse Inventory](images/jackInventoryDataModel.drawio.png)
 
 

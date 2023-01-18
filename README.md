@@ -16,12 +16,10 @@
       v. Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no 
          longer than is necessary for the purposes for which the personal data are processed.
 
-     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful processing, 
-         accidental loss, destruction, or damage.
+     vi. Integrity and confidentiality: Personal data must be protected against unauthorized or unlawful           processing, accidental loss, destruction, or damage.
 
-    vii. Accountability: Organizations must be able to demonstrate their compliance with these principles. 
-         They are responsible for implementing appropriate technical and organizational measures to ensure that personal 
-         data is processed in accordance with the GDPR.
+     vii. Accountability: Organizations must be able to demonstrate their compliance with these principles. 
+         They are responsible for implementing appropriate technical and organizational measures to ensure that personal data is processed in accordance with the GDPR.
 
 
 
@@ -175,12 +173,13 @@
   
   
 
-  b. Draw the model for your project 
+  b. Draw the model for your project (Jack Warahouse Inventory)
         ![Data Modeling for Jack Warahouse Inventory](images/jackInventoryDataModel.drawio.png)
 
 
-2. a. (Jack Warehouse Inventory) On a daily basis 5 10 tonn trucks, 
-      3 5 tonn trucks and 2 2.75 tonn truck
+2. a. (Jack Warehouse Inventory) On a daily basis 5 10-ton trucks, 
+      3 5-ton trucks and 2 2.75-ton truck
 
-   b. audit the entry and exit of 5 ten ton trucks, 3 ten ton truck, 
-      2.5 ten ton truck use a random algorithm  
+   b. audit the entry and exit of 5 10-ton trucks, 3 10-ton trucks, 
+      2.5 10-ton trucks use a random algorithm  
+
